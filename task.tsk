@@ -6,34 +6,33 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="128Stolberg-Diepenlinchen" id="0" comment="" altitude="260.0">
-      <Location longitude="6.2791667" latitude="50.7683333"/>
+    <Waypoint name="008Aachen Lichtenbusch" id="0" comment="" altitude="200.0">
+      <Location longitude="6.12555" latitude="50.7208333"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="076Kerpen Eifel SX" id="0" comment="" altitude="433.0">
-      <Location longitude="6.7261167" latitude="50.3083333"/>
+    <Waypoint name="084Linnich Kontrollpunkt" id="0" comment="" altitude="100.0">
+      <Location longitude="6.2772167" latitude="50.9991667"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="8000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="009Aachen-Merzbrueck" id="0" comment="" altitude="190.0">
-      <Location longitude="6.18695" latitude="50.8241667"/>
+    <Waypoint name="058Hambach Süd" id="0" comment="" altitude="7.0">
+      <Location longitude="6.4916667" latitude="50.8888833"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="8000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="006Langenfeld-Wiescheid" id="0" comment="" altitude="86.0">
-      <Location longitude="6.9852833" latitude="51.1413833"/>
+    <Waypoint name="109Radevormwald" id="0" comment="" altitude="389.0">
+      <Location longitude="7.3825" latitude="51.2163833"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="25000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="002Zielkreis" id="0" comment="" altitude="130.0">
       <Location longitude="7.03695" latitude="51.0977833"/>
     </Waypoint>
-    <ObservationZone type="Line" length="4000.0"/>
+    <ObservationZone type="Cylinder" radius="2000.0"/>
   </Point>
 </Task>
-
