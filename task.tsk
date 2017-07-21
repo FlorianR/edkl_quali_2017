@@ -6,28 +6,28 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="008Aachen Lichtenbusch" id="0" comment="" altitude="200.0">
-      <Location longitude="6.12555" latitude="50.7208333"/>
+    <Waypoint name="136Weisweiler Kraftwerk" id="0" comment="" altitude="450.0">
+      <Location longitude="6.3208333" latitude="50.8386167"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="20000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="084Linnich Kontrollpunkt" id="0" comment="" altitude="100.0">
-      <Location longitude="6.2772167" latitude="50.9991667"/>
+    <Waypoint name="139Wershofen" id="0" comment="" altitude="482.0">
+      <Location longitude="6.7866667" latitude="50.4527833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="8000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="058Hambach Süd" id="0" comment="" altitude="7.0">
-      <Location longitude="6.4916667" latitude="50.8888833"/>
+    <Waypoint name="043Dierdorf-Wienau" id="0" comment="" altitude="290.0">
+      <Location longitude="7.6547167" latitude="50.5675"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="8000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="109Radevormwald" id="0" comment="" altitude="389.0">
-      <Location longitude="7.3825" latitude="51.2163833"/>
+    <Waypoint name="093Meschede-Schueren" id="0" comment="" altitude="438.0">
+      <Location longitude="8.2366667" latitude="51.3016667"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="25000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="002Zielkreis" id="0" comment="" altitude="130.0">
@@ -36,3 +36,4 @@
     <ObservationZone type="Cylinder" radius="2000.0"/>
   </Point>
 </Task>
+
